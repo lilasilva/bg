@@ -17,24 +17,24 @@ var listModel = [
             desc: 'Fundo Taz'
       },
       {
-            img: 'https://i.postimg.cc/HkCCg1TP/hola-bg-01.jpg',
-            desc: 'Fundo Externo - Monicomio'
+            img: 'https://i.postimg.cc/YSPrZmGK/agp1.png',
+            desc: 'Fundo - 1'
       },
       {
-            img: 'https://i.postimg.cc/HkCCg1TP/hola-bg-01.jpg',
-            desc: 'Fundo Externo - Monicomio'
+            img: 'https://i.postimg.cc/QMFsQx66/euee.png',
+            desc: 'Fundo - 2'
       },
       {
-            img: 'https://i.postimg.cc/FHPxBzwb/inner-radio0120-bg.jpg',
-            desc: 'Fundo Interno - Cafafo'
+            img: 'https://i.postimg.cc/Bn6G3nGq/MEUU.png',
+            desc: 'Fundo - 3'
       },
       {
-            img: 'https://i.postimg.cc/69jHHbXs/radio0120-bg.jpg',
-            desc: 'Fundo Externo - Carinho e Amizade'
+            img: 'https://i.postimg.cc/9Fm6PQ0G/lagrima-ardente-1.png',
+            desc: 'Fundo - 4'
       },
       {
-            img: 'https://i.postimg.cc/ncmtghfD/inner-hola-01.jpg',
-            desc: 'Fundo Interno - Hola'
+            img: 'https://i.postimg.cc/7PVcLr9b/lov.png',
+            desc: 'Fundo - 5'
       },
       {
             img: 'https://i.postimg.cc/HkCCg1TP/hola-bg-01.jpg',
