@@ -68,9 +68,11 @@ var listModel = [
             desc: 'Fundo 16'
       },
       
+      
+      
       {
             img: 'https://i.postimg.cc/zBftQ0bp/DIABRETE-NATAL.png',
-            desc: 'Fundo 18'
+            desc: 'Fundo 17'
       },
       
 ]
