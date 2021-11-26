@@ -9,12 +9,12 @@ var listModel = [
             desc: 'Fundo - Rdiabrete'
       },
       {
-            img: 'https://i.postimg.cc/ncmtghfD/inner-hola-01.jpg',
-            desc: 'Fundo Interno - Hola'
+            img: 'https://img.xatblog.net/image/TwlG5ef128G.png',
+            desc: 'Fundo Estrelina '
       },
       {
-            img: 'https://i.postimg.cc/HkCCg1TP/hola-bg-01.jpg',
-            desc: 'Fundo Externo - Hola'
+            img: 'https://img.xatblog.net/image/ER9yanHHL7.png',
+            desc: 'Fundo Taz'
       },
       {
             img: 'https://i.postimg.cc/HkCCg1TP/hola-bg-01.jpg',
