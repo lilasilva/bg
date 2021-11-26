@@ -2,11 +2,11 @@
 var listModel = [
       {
             img: 'https://img.xatblog.net/image/SLVgnMLAd.png',
-            desc: 'Fundo Interno - Sentimentos'
+            desc: 'Fundo - Sentimentos'
       },
       {
             img: 'https://img.xatblog.net/image/dDGJJpOtL.png',
-            desc: 'Fundo Externo - Rdiabrete'
+            desc: 'Fundo - Rdiabrete'
       },
       {
             img: 'https://i.postimg.cc/ncmtghfD/inner-hola-01.jpg',
