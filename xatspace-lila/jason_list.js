@@ -68,9 +68,14 @@ var listModel = [
             desc: 'Fundo 16'
       },
       
-     {
+     
+      {
             img: 'https://i.postimg.cc/k53MmYxJ/1TODPW6.png',
             desc: 'Fundo 17'
+      },
+      {
+            img: 'https://i.postimg.cc/wxGpzbpC/lila.png',
+            desc: 'Fundo 18'
       },
       
 ]
