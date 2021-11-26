@@ -5,8 +5,8 @@ var listModel = [
             desc: 'Fundo Interno - Sentimentos'
       },
       {
-            img: 'https://i.postimg.cc/69jHHbXs/radio0120-bg.jpg',
-            desc: 'Fundo Externo - Carinho e Amizade'
+            img: 'https://img.xatblog.net/image/dDGJJpOtL.png',
+            desc: 'Fundo Externo - Rdiabrete'
       },
       {
             img: 'https://i.postimg.cc/ncmtghfD/inner-hola-01.jpg',
