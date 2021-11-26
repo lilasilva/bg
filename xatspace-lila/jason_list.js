@@ -1,8 +1,8 @@
 
 var listModel = [
       {
-            img: 'https://i.postimg.cc/FHPxBzwb/inner-radio0120-bg.jpg',
-            desc: 'Fundo Interno - Cafafo'
+            img: 'https://img.xatblog.net/image/SLVgnMLAd.png',
+            desc: 'Fundo Interno - guerreiros'
       },
       {
             img: 'https://i.postimg.cc/69jHHbXs/radio0120-bg.jpg',
