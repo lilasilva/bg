@@ -70,27 +70,12 @@ var listModel = [
       
       {
             img: 'https://i.postimg.cc/zBftQ0bp/DIABRETE-NATAL.png',
-            desc: 'Fundo 17'
-      },
-      {
-            img: 'https://i.postimg.cc/YCHwPBp3/radio-diabreta-f.png',
             desc: 'Fundo 18'
       },
       
-      {
-            img: 'https://i.postimg.cc/T25MY310/faty-frentee.png',
-            desc: 'Fundo 19'
-      
-            },{
-            img: 'https://i.postimg.cc/nc4HpGhp/vbvb.png',
-            desc: 'Fundo 19'
-      },
-      },{
-            img: 'https://i.postimg.cc/nc4HpGhp/vbvb.png',
-            desc: 'Fundo 20'
-      },
-      },{
-            img: 'https://i.postimg.cc/J4LL6Hcg/aa.png',
-            desc: 'Fundo 21'
-      },
 ]
+
+      
+      
+      
+      
