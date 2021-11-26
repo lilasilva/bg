@@ -94,7 +94,7 @@ ul{
     display:flex;
     position:absolute;
     bottom:0;
-    box-shadow:0 -60px #d90000 inset;
+    box-shadow:0 -60px #fff inset;
 }
 
 .jd-box-avatar{
