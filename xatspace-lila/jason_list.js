@@ -57,7 +57,7 @@ var listModel = [
             desc: 'Fundo 14'
       },
       {
-            img: 'https://img.xatblog.net/image/LP3TLoI2cLr.png',
+            img: 'https://img.xatblog.net/image/abr5ulVd6.png',
             desc: 'Fundo 15'
       },
       {
