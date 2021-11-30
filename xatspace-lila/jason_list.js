@@ -76,6 +76,14 @@ var listModel = [
            img: 'https://img.xatblog.net/image/sTQodSqwc.png',
            desc: 'Fundo 19'
       },
+      {
+           img: 'https://img.xatblog.net/image/bFJYoF3Ze.png',
+           desc: 'Fundo 20'
+      },
+      {
+           img: 'https://img.xatblog.net/image/33rGVn9EOfO.png',
+           desc: 'Fundo 21'
+      },
       
       
 ]
